@@ -1,0 +1,32 @@
+[
+  {
+    "name": "DB_HOST",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "DB_NAME",
+    "value": "postgres",
+    "slotSetting": false
+  },
+  {
+    "name": "DB_PASSWORD",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "DB_USERNAME",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "DB_PORT",
+    "value": 5432,
+    "slotSetting": false
+  },
+  {
+    "name": "DB_DIALECT",
+    "value": "postgres",
+    "slotSetting": false
+  }
+]

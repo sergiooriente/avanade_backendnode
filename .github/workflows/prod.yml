@@ -7,7 +7,7 @@ on:
     workflow_dispatch:
 
 jobs:
-  build-and-deploy:
+  build-and-deploy: 
     name: iniciando build e deploy
     runs-on: ubuntu-latest
     environment: production
